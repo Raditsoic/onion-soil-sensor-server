@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kaliums",
+  "info": {
+    "singularName": "kalium",
+    "pluralName": "kaliums",
+    "displayName": "Kalium"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "datetime": {
+      "type": "datetime"
+    },
+    "value": {
+      "type": "decimal"
+    }
+  }
+}

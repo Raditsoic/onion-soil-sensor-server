@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nitrogens",
+  "info": {
+    "singularName": "nitrogen",
+    "pluralName": "nitrogens",
+    "displayName": "Nitrogen"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "datetime": {
+      "type": "datetime"
+    },
+    "value": {
+      "type": "decimal"
+    }
+  }
+}
